@@ -79,13 +79,13 @@ export default class Resume extends React.Component {
                         <h3>Associate Software Engineer | January, 2019 - current</h3>
                         <em>OneSpot Inc. - Austin, TX</em>
                         <ul>
-                            <li>Used Preact, vanilla JavaScript and CSS to seamlessly integrate third party software into customer sites</li>
-                            <li>Onboarded customers and tailored SaaS platform to meet their needs.</li>
-                            <li>Translated wireframes and mock-ups to interactive web elements.</li>
+                            <li>Used Preact, vanilla JavaScript and CSS to seamlessly integrate third party software into Fortune 500 customer sites.</li>
+                            <li>Collaborated with customer success team to onboard customers and tailor SaaS platform to meet their needs.</li>
+                            <li>Translated wireframes and mock-ups to interactive web elements which align with the look and feel of a customer’s brand.</li>
                         </ul>
                     </div>
                     <div className='job'>
-                        <h3>Authenticity Analyst | September, 2017 - current</h3>
+                        <h3>Authenticity Analyst | September, 2017 - January, 2019</h3>
                         <em>Bazaarvoice - Austin, TX</em>
                         <ul>
                             <li>Use case management system to analyze fraudulent trends in consumer data.</li>

@@ -16,13 +16,13 @@ export default class Header extends React.Component {
                         <h1>Krista Kannen</h1>
                         <hr/>
                     </div>
-                    <h3>Front End developer from Austin, TX</h3>
+                    <h3>Front End developer in Austin, TX</h3>
                 </div>
                 <div className={'view-portfolio'} onClick={clickEvent}>
                     <i
                         className='fa fa-chevron-down arrow'
                         aria-hidden='true'/>
-                    <div className={'arrow'}>Portfolio</div>
+                    <div className={'arrow-text'}>Portfolio</div>
                 </div>
             </div>
             
